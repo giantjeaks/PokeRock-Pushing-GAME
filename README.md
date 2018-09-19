@@ -1,1 +1,1 @@
-Run by javac TestBox.java and jabva TestBox
+Run by javac TestBox.java and java TestBox
